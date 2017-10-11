@@ -1,9 +1,9 @@
-What is Kupiki Hotspot
+What is COWHerd 
 ==================
 
-This project is the latest version of [the tutorial](http://www.pihomeserver.fr/2015/08/05/raspberry-pi-coovachilli-et-freeradius-pour-un-hotspot-wifi-avec-portail-captif/) created first on my blog [Pi Home Server](http://www.pihomeserver.fr)
-Created on a Raspberry Pi 2, some functionalities and tools where not available for the Raspberry Pi 3. Also the tutorial was a little bit difficult to 
-implement because of too many steps. That's why i decided to create a script that will help you to build your own hotspot automatically.
+COWHerd is an access controller device/tool that can be used as an access controller for COWMesh networks. Primary development of COWHerd has been undertaken to support the TRAI open W-Fi Pilot (WANI). 
+This project is based on Kupiki-Hotspot-Script
+(https://github.com/pihomeserver/Kupiki-Hotspot-Script)
 
 Once the script is executed, you will get :
 - A Wifi hotspot using the integrated wifi chipset
